@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalchand Basha</h1>
+<h1 align="center">Hi 👋, I'm Lal jan Basha</h1>
 <h3 align="center">Computer Science Engineer | Flutter Developer | AI/ML Enthusiast</h3>
 
 ---
@@ -66,18 +66,12 @@
 - Automated Bill Data Extraction
 - Image Processing & Data Handling
 
----
-
-## 📊 GitHub Stats
-
-![Lalchand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laljanbasha111&show_icons=true&theme=tokyonight)
-
----
+--
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Add your LinkedIn profile link here
+- 📧 Email: laljanbasha999@gmail.com
+- 💼 LinkedIn: lal-jan-basha-jamkanam-081069338
 
 ---
 
